@@ -1,0 +1,20 @@
+label {
+	cursor: pointer;
+	color: rgb(114, 186, 175);
+	display: block;
+	padding: 20px;
+	margin: 3px;
+}
+
+select{
+  width: 400px;
+  height: 40px;
+  padding: 5px;
+  color: rgb(2, 98, 108);
+}
+select option { color: black; }
+select option:first-child{
+  color: green;
+}
+
+
