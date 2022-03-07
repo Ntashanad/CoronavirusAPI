@@ -1,4 +1,4 @@
-//serach.component.ts
+//search.component.ts
 import { Component } from '@angular/core';
 import { CoronaService } from '../corona.service';
 
