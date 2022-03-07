@@ -10,7 +10,8 @@ import { CoronaService } from '../corona.service';
 })
 export class SearchComponent {
 
-	countries:any
+	//this is variables
+  countries:any
 	country:any
   confirmed!: Number;
   //recovered!: Number;
